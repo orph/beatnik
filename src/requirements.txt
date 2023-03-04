@@ -1,0 +1,14 @@
+fastapi==0.88.0
+httpx==0.23.3
+newspaper3k==0.2.8
+openai==0.25.0
+playwright==1.29.1
+uvicorn==0.20.0
+modal-client==0.45.755
+youtube-transcript-api==0.5.0
+parsel==1.7.0
+wikipedia==1.4.0
+textract==1.6.5
+PyMuPDF==1.21.1
+azure-storage-blob==12.9.0
+azure-identity==1.7.0

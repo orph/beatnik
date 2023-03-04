@@ -1,0 +1,16 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+###
+
+POST http://127.0.0.1:8000/analyze
+Accept: application/json
+Content-Type: application/json
+
+{
+  "url": "https://playwright.dev"
+}
+
+###
